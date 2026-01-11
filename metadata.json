@@ -1,0 +1,7 @@
+{
+  "name": "The Fourth Trimester",
+  "description": "A compassionate postpartum companion for mothers to track health, receive AI-driven insights from medical sources, and connect with local community.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
